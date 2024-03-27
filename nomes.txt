@@ -1,3 +1,7 @@
 robson
 antonio
 lucas
+antonio
+pedro 
+lucas
+alice
